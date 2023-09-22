@@ -49,7 +49,7 @@ nav .menu {
   transform: ; /* translate(42px, 18px); */
 }
 .img {
-  background: url(./img/elephant\\(1\).jpg);
+  background: url(./img/elephant\ .jpg);
   height: 100vh;
   width: 100%;
   background-size: cover;
